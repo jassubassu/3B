@@ -12,6 +12,8 @@ p   {
     color: green;
 }
 
-div {
-    border: dotted; width: 2px;
+.div {
+    width: 100px;
+    height: 100px;
+    border: dotted; border-width: 2px;
 }
